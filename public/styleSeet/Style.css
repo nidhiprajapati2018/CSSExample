@@ -1,0 +1,32 @@
+/* External style sheet example */
+h1
+{
+	color: #fff;
+    text-align: center;
+    border: double 10px yellowgreen;
+    background: blueviolet;
+    width: 500px;
+    padding: 30px;
+    border-radius: 100px 0px;
+    background-clip: padding-box;
+    margin: 50px auto;
+    display: inline-block;
+     position: relative;
+    left: 10px;
+}
+
+h2 {
+    color: #fff;
+    text-align: center;
+    font-size: x-large;
+    border: double 10px yellowgreen;
+    background: blueviolet;
+    width: 500px;
+    padding: 30px;
+    border-radius: 0px 100px;
+    background-clip: padding-box;
+    margin: 50px auto;
+    display: inline-block;
+    position: relative;
+    left: 200px;
+}
